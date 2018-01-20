@@ -2,9 +2,6 @@ Need for speed
 Ford mustang
 edit 3 times
 edit on cloud
-<<<<<<< HEAD
 edit in master
-=======
 edit in develop
->>>>>>> develop
 
